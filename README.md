@@ -1,6 +1,6 @@
-![](git/api-image.gif)
-
 # SISTEMA SIMPLES DE SAGA
+
+![Saga](https://raw.githubusercontent.com/michael23-lopes/Projeto-Saga/main/git-image/api-image.gif)
 É um sistema simples de saga, que pode ser melhorado. Ele permite o cadastro de usuários, que poderão cadastrar, alterar e excluir alunos dentro de um sistema. Esses usuários poderão fazer o seu login, podendo fazer alterações em seu cadastro dentro do sistema.  
 
 
